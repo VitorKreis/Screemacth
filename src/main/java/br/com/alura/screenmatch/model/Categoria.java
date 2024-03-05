@@ -5,7 +5,7 @@ public enum Categoria {
     CRIME("Crime", "Crime"),
     DRAMA("Drama",  "Drama"),
 
-    COMEDIA("Comedy", "Comedia"),
+    COMEDIA("Comedy", "Comédia"),
 
     ACAO("Action", "Açao");
 
