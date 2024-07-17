@@ -1,8 +1,7 @@
 ## ScreeMatch
 
 
-Este projeto foi desenvolvido com o objetivo de criar uma API simples que permite consultar informações de veículos,
-como ano, marca e preço, com base na Tabela FIPE.
+Este projeto foi desenvolvido com o objetivo de criar uma API para uma plataforma de filmes aonde utiliza a api da OMDB, para a integraçao dos dados.
 
 # Tecnologias Utilizadas:
 - Java: Linguagem de programação principal utilizada para o desenvolvimento da aplicação.
